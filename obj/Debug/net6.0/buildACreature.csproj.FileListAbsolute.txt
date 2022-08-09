@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/bin/Debug/net6.0/buildACreature
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/bin/Debug/net6.0/buildACreature.deps.json
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/bin/Debug/net6.0/buildACreature.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/bin/Debug/net6.0/buildACreature.dll
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/bin/Debug/net6.0/buildACreature.pdb
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.dll
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/refint/buildACreature.dll
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.pdb
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/buildACreature.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/buildACreature/obj/Debug/net6.0/ref/buildACreature.dll
